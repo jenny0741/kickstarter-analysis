@@ -1,7 +1,10 @@
 # An Analysis of Kickstarter Campaigns
-An analysis of kickstarter campaigns from different countries was conducted to predict the outcome of a future kickstart campaign. Various forms of entertainment were observed and analyzed utilizing data on their outcomes, campaign goals, and launch dates. Based on the data from ![Category Statistics](Cateogory Statistics.png) campaigns in the theater catoegory had the most chances of success in reaching their campaign goals. When taking a look at ![Subcategory Outcomes](Subcategory Outcomes.png) plays specifically in the theater category had a higher success rate than others. The success of kickstarter campaigns, especially in May, were the highest during the month of May when looking at data from ![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png). To summarize the points, play kickstarter campaigns are the most successful in May.
+An analysis of kickstarter campaigns from different countries was conducted to predict the outcome of a future kickstart campaign. Various forms of entertainment were observed and analyzed utilizing data on their outcomes, campaign goals, and launch dates. Based on the data from the Cateogory Statistics chart, campaigns in the theater catoegory had the most chances of success in reaching their campaign goals. When taking a look at Subcategory Outcomes chart, plays specifically in the theater category had a higher success rate than others. The success of kickstarter campaigns, especially in May, were the highest during the month of May when looking at data from Outcomes Based on Launch Date. To summarize the points, play kickstarter campaigns are the most successful in May.
+
 ![Category Statistics](Category Statistics.png) 
+
 ![Subcategory Outcomes](Subcategory Outcomes.png)
+
 ![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
 
 I had a bit of trouble with conditional formatting using color scales. However this was mostly in part because I could not see the color transition, so I was able to fix this confusion by searching it up and also filtering the column differently till I could see a color transition. I also had difficulties understanding how to place the correct fields into the pivot chart categories. In order to overcome this, I went over the module as well as the exercise that was done in class before practicing on my own. 
