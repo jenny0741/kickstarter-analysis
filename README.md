@@ -4,7 +4,7 @@
 An analysis of kickstarter campaigns from different countries was conducted to predict the outcome of a future kickstart campaign. Various forms of entertainment were observed and analyzed utilizing data on their outcomes, campaign goals, and launch dates. 
 
 ## Analysis
-1. Campaigns in the theater catoegory had the most chances of success in reaching their campaign goals.
+1. ampaigns in the theater catoegory had the most chances of success in reaching their campaign goals.
 2. Plays specifically in the theater category had a higher success rate than others. 
 3. The success of kickstarter campaigns, especially in May, were the highest during the month of May when looking at data from Outcomes Based on Launch Date. 
 4. To summarize the points, play kickstarter campaigns are the most successful in May.
@@ -18,6 +18,7 @@ An analysis of kickstarter campaigns from different countries was conducted to p
 ## Challenges
 I had a bit of trouble with conditional formatting using color scales. However this was mostly in part because I could not see the color transition, so I was able to fix this confusion by searching it up and also filtering the column differently till I could see a color transition. I also had difficulties understanding how to place the correct fields into the pivot chart categories. In order to overcome this, I went over the module as well as the exercise that was done in class before practicing on my own. 
 
+## Results
 Data from Theater_Outcomes_vs_Launch chart indicates that the highest number of campaigns are launched in May resulting in a large number of successful campaigns. The amount of successful and failed campaigns are roughly the same during the later months in the year, starting around October and ending about January. There are also barely any cases of canceled campaigns in for each month.
 ![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
