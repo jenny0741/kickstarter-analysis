@@ -3,7 +3,9 @@
 ### Purpose
 An analysis of kickstarter campaigns from different countries was conducted to predict the outcome of a future kickstart campaign. Various forms of entertainment were observed and analyzed utilizing data on their outcomes, campaign goals, and launch dates. 
 
-## Analysis
+## Analysis and Challenges
+
+### Analsyis of Outcomes Based on Launch Date and Goals
 1. Campaigns in the theater category had the most chances of success in reaching their campaign goals.
 2. Plays specifically in the theater category had a higher success rate than others. 
 3. The success of kickstarter campaigns, especially in May, were the highest during the month of May when looking at data from Outcomes Based on Launch Date. 
@@ -15,7 +17,7 @@ An analysis of kickstarter campaigns from different countries was conducted to p
 
 ![Outcomes_Based_on_Launch_Date](Outcomes_Based_on_Launch_Date.png)
 
-## Challenges
+### Challenges
 I had a bit of trouble with conditional formatting using color scales. However this was mostly in part because I could not see the color transition, so I was able to fix this confusion by searching it up and also filtering the column differently till I could see a color transition. I also had difficulties understanding how to place the correct fields into the pivot chart categories. In order to overcome this, I went over the module as well as the exercise that was done in class before practicing on my own. 
 
 ## Results
