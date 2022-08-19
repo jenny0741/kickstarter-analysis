@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 
-## Purpose
+### Purpose
 An analysis of kickstarter campaigns from different countries was conducted to predict the outcome of a future kickstart campaign. Various forms of entertainment were observed and analyzed utilizing data on their outcomes, campaign goals, and launch dates. 
 
 ## Analysis
