@@ -5,7 +5,7 @@ An analysis of kickstarter campaigns from different countries was conducted to p
 
 ## Analysis and Challenges
 
-### Analsyis of Outcomes Based on Launch Date and Goals
+### Analsyis 
 1. Campaigns in the theater category had the most chances of success in reaching their campaign goals.
 2. Plays specifically in the theater category had a higher success rate than others. 
 3. The success of kickstarter campaigns, especially in May, were the highest during the month of May when looking at data from Outcomes Based on Launch Date. 
