@@ -1,7 +1,13 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Purpose
-1. An analysis of kickstarter campaigns from different countries was conducted to predict the outcome of a future kickstart campaign. Various forms of entertainment were observed and analyzed utilizing data on their outcomes, campaign goals, and launch dates. Based on the data from the Cateogory Statistics chart, campaigns in the theater catoegory had the most chances of success in reaching their campaign goals. When taking a look at Subcategory Outcomes chart, plays specifically in the theater category had a higher success rate than others. The success of kickstarter campaigns, especially in May, were the highest during the month of May when looking at data from Outcomes Based on Launch Date. To summarize the points, play kickstarter campaigns are the most successful in May.
+An analysis of kickstarter campaigns from different countries was conducted to predict the outcome of a future kickstart campaign. Various forms of entertainment were observed and analyzed utilizing data on their outcomes, campaign goals, and launch dates. 
+
+## Analysis
+1. Campaigns in the theater catoegory had the most chances of success in reaching their campaign goals.
+2. Plays specifically in the theater category had a higher success rate than others. 
+3. The success of kickstarter campaigns, especially in May, were the highest during the month of May when looking at data from Outcomes Based on Launch Date. 
+4. To summarize the points, play kickstarter campaigns are the most successful in May.
 
 ![Category_Statistics](Category_Statistics.png) 
 
